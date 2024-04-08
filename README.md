@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá!!!👋
 
-<!--
-**lidgiani09/lidgiani09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-> Me chamo Lidgiani, tenho 15 anos, e sou de Apiúna-SC.
 
-Here are some ideas to get you started:
+-> Algumas coisas sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏃‍♀️ Gosto de praticar vários esportes, como: vôlei, futsal, e corrida.
+- ✈️ Adoro viajar e sair de casa!
+- 📖 Estudo no Ensino Médio e estou cursando Lógica de programação pelo SENAI.
+- ❤️ Gosto de estar com minha familia e amigos.
+- 🏫 Estudo em uma escola pública.
+- 🎶 Gosto de escutar música.
+- 😄 Estudo muito para ter um futuro bom, de muito orgulho!!
+- 🏕️ Gosto de estar ao ar livre.
+- ♒ Sou do signo de aquário.
+- 🐶 Tenho dois cachorros.
