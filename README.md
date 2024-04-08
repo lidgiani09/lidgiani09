@@ -12,5 +12,4 @@
 - 🎶 Gosto de escutar música.
 - 😄 Estudo muito para ter um futuro bom, de muito orgulho!!
 - 🏕️ Gosto de estar ao ar livre.
-- ♒ Sou do signo de aquário.
 - 🐶 Tenho dois cachorros.
